@@ -2,6 +2,6 @@
 pragma solidity >=0.4.25 <0.9.0;
 
 contract faucet{
-    uint public number = 7;
-    int public num = 2;
+    uint public number = 3;
+    int public num = 4;
 }
